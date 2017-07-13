@@ -51,6 +51,7 @@ eventbrite: "36103641965"  # optional: alphanumeric key for Eventbrite registrat
 If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
 <a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
 and our administrator may contact you if we need any extra information.</h4>-->
+<div id="contents_wrap">
 <h2 id="general">Contents</h2>
 <div id="contents" class="jumbotron">
  <ul>
@@ -62,8 +63,9 @@ and our administrator may contact you if we need any extra information.</h4>-->
   <li><a href="#setup">Software Setup Instructions</a></li>
 </ul>
 </div>
+</div>
 
-
+<div id="general_wrap">
 <h2 id="general">General Information</h2>
 
 <!--
@@ -85,8 +87,11 @@ and our administrator may contact you if we need any extra information.</h4>-->
   A separated section for detailed workshop information
 -->
 
+</div>
+<hr>
 
-<h2 id="general">Workshop Details</h2>
+<div>
+<h2 id="wdetails">Workshop Details</h2>
 
 <!--
   AUDIENCE
@@ -101,6 +106,8 @@ and our administrator may contact you if we need any extra information.</h4>-->
 {% elsif page.carpentry == "lc" %}
   {% include lc/who.html %}
 {% endif %}
+
+</div>
 
 <!--
   LOCATION
