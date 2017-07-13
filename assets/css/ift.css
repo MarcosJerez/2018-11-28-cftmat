@@ -1,0 +1,86 @@
+/*!
+ * 
+ * IFT customizations for SC workshop
+ * 
+ */
+
+#shell {
+ margin-bottom:70px;
+ margin-left:40px;
+ padding-left:15px;
+ border-left-style:solid;
+ border-left-width:5px;
+ border-left-color: rgba(39, 93, 140, 0.39);
+}
+#shell p {
+ margin-left:15px;
+}
+
+
+
+
+
+
+#git {
+ margin-bottom:70px;
+ margin-left:40px;
+ padding-left:15px;
+ border-left-style:solid;
+ border-left-width:5px;
+ border-left-color: rgba(39, 93, 140, 0.39);
+}
+#git p {
+ margin-left:15px;
+}
+
+
+
+#editor {
+ margin-bottom:70px;
+ margin-left:40px;
+ padding-left:15px;
+ border-left-style:solid;
+ border-left-width:5px;
+ border-left-color: rgba(39, 93, 140, 0.39);
+}
+#editor p {
+ margin-left:15px;
+}
+
+
+
+#python {
+ margin-bottom:70px;
+ margin-left:40px;
+ padding-left:15px;
+ border-left-style:solid;
+ border-left-width:5px;
+ border-left-color: rgba(39, 93, 140, 0.39);
+}
+#python p {
+ margin-left:15px;
+}
+
+
+#git div.row, #python div.row, #shell div.row, #python div.row, #editor div.row {
+margin:auto;
+ 
+}
+.row .btn {
+margin-bottom:20px;
+
+}
+
+#syllabus_wrap .row {
+ margin-left:15px;
+
+}
+h2#syllabus, h2#wdetails, h2#schedule, h2#setup, h2#general{
+ border-left-style:solid;
+ padding-left: 10px;
+ background-color:rgba(72, 90, 142, 0.13);
+ padding-top:10px;
+ padding-bottom:10px;
+}
+
+
