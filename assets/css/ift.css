@@ -79,7 +79,7 @@ div#iframe{
 }
 
 .jumbotron {
- background-image:url("/header_small.png");
+ background-image:url("../../header_small.png");
  height:500px;
  max-width:1140px;
 }
