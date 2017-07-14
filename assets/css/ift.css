@@ -10,7 +10,7 @@
  padding-left:15px;
  border-left-style:solid;
  border-left-width:5px;
- border-left-color: rgba(39, 93, 140, 0.39);
+ border-left-color: rgba(136, 126, 109, 0.12);
 }
 #shell p {
  margin-left:15px;
@@ -104,5 +104,21 @@ background-color:rgba(136, 126, 109, 0.12) !important;
  border-radius: 18px;
  /*margin-top: 50px;*/
  margin-bottom: 50px;
+ background-color:white;
+ overflow:hidden;
+ max-width:200px;
+}
 
+#logoift_img{
+ margin:5px;
+}
+
+div#image_header{
+ margin:auto !important;
+
+}
+
+div#software_carpentry{
+ margin:auto !important;
+ text-align:center;
 }
