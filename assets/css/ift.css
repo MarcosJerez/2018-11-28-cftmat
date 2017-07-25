@@ -4,6 +4,10 @@
  * 
  */
 
+body{
+ font-size:16px !important;
+}
+
 #shell, #git, #editor, #python {
  margin-bottom:25px;
  margin-left:40px;
