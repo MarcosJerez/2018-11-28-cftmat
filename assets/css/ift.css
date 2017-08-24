@@ -126,3 +126,15 @@ div#software_carpentry{
  margin:auto !important;
  text-align:center;
 }
+
+/***********
+* I hide the div with Instructors and Helpers in small screens, because is too big and makes issues
+*
+*/
+
+@media (max-width: 767px) {                  
+   .content-to-hide {
+      display: none;
+   }
+}
+}
