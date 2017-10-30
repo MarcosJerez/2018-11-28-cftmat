@@ -137,4 +137,24 @@ div#software_carpentry{
       display: none;
    }
 }
+
+/**
+* Collaboration
+**/
+
+
+div#CFMlogo {
+ max-width:300px;
+ padding-top:15px;
+ margin:auto
 }
+
+div#coll {
+ display: block;
+ max-width: 349px;
+ text-align: center;
+ margin: auto;
+ font-size: 30px;
+ height: 200px;
+}
+
