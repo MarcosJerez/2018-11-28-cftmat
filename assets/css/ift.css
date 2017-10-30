@@ -162,3 +162,8 @@ div#CFMlogo img {
  width:190px;
 
 }
+div#CFMlogo a {
+ display: block;
+ font-size: 16px;
+ padding-top: 5px;
+}
